@@ -7,7 +7,7 @@ Arduino Nano 33 boards:
 * [Arduino Nano 33 BLE Sense](https://docs.arduino.cc/hardware/nano-33-ble-sense)
 
 ## Setup
-Connect the Arduino to a suitable AC dimmer module, e.g. the [RobotDyn® 4-channel AC dimmer](https://robotdyn.com/ac-light-dimmer-module-4-channel-3-3v-5v-logic-ac-50-60hz-220v-110v.html):
+Connect the Arduino to a suitable AC dimmer module, e.g. the RobotDyn® 4-channel AC dimmer:
 
 | Arduino | Dimmer |   |
 |---------|--------|---|
